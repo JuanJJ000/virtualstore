@@ -1,15 +1,14 @@
 <?php 
-	const BASE_URL = "http://localhost/tienda_virtual";
+	const BASE_URL = "https://craftzcoffee.com";
 	//const BASE_URL = "https://abelosh.com/tiendavirtual";
 
 	//Zona horaria
 	date_default_timezone_set('America/Guatemala');
 
-	//Datos de conexión a Base de Datos
-	const DB_HOST = "localhost";
-	const DB_NAME = "sermutec_db_tiendavirtual";
-	const DB_USER = "root";
-	const DB_PASSWORD = "@poetadebarro";
+    const DB_HOST = "localhost";
+	const DB_NAME = "u129156288_db_virtualshop";
+	const DB_USER = "u129156288_craftzcofee";
+	const DB_PASSWORD = "@Poetadebarro123";
 	const DB_CHARSET = "utf8";
 
 	//Para envío de correo
@@ -35,9 +34,9 @@
 
 	//Datos envio de correo
 	const NOMBRE_REMITENTE = "Tienda Virtual";
-	const EMAIL_REMITENTE = "no-reply@abelosh.com";
+	const EMAIL_REMITENTE = "info@craftzcoffee.com";
 	const NOMBRE_EMPESA = "Tienda Virtual";
-	const WEB_EMPRESA = "www.abelosh.com";
+	const WEB_EMPRESA = "www.craftzcoffee.com";
 
 	const DESCRIPCION = "La mejor tienda en línea con artículos de moda.";
 	const SHAREDHASH = "TiendaVirtual";
