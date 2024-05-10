@@ -261,7 +261,7 @@
 				</li>
 
 				<li>
-					<a href="<?= base_url(); ?>/carrito">Carrito</a>
+					<a href="<?= base_url(); ?>/carrito">Mis Productos</a>
 				</li>
 
 				<li>
