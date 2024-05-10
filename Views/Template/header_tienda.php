@@ -154,11 +154,11 @@
 							</li>
 
 							<li>
-								<a href="<?= base_url(); ?>/carrito">Carrito</a>
+								<a href="<?= base_url(); ?>/carrito">Mis Productos</a>
 							</li>
 							
 							<li>
-								<a href="<?= base_url(); ?>/nosotros">Nosotro</a>
+								<a href="<?= base_url(); ?>/nosotros">Nosotros</a>
 							</li>
 
 							<li>
@@ -166,7 +166,7 @@
 							</li>
 
 							<li>
-								<a href="<?= base_url(); ?>/contacto">Contacto</a>
+								<a href="<?= base_url(); ?>/contacto">Contactanos</a>
 							</li>
 						</ul>
 					</div>	

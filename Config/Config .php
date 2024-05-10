@@ -1,9 +1,8 @@
 <?php 
 	const BASE_URL = "https://craftzcoffee.com";
-	//const BASE_URL = "https://abelosh.com/tiendavirtual";
 
 	//Zona horaria
-	date_default_timezone_set('America/Guatemala');
+	date_default_timezone_set('America/Nicaragua');
 
     const DB_HOST = "localhost";
 	const DB_NAME = "u129156288_db_virtualshop";
@@ -33,29 +32,29 @@
 	//const SECRET = "";
 
 	//Datos envio de correo
-	const NOMBRE_REMITENTE = "Tienda Virtual";
+	const NOMBRE_REMITENTE = "Virtual Store";
 	const EMAIL_REMITENTE = "info@craftzcoffee.com";
-	const NOMBRE_EMPESA = "Tienda Virtual";
+	const NOMBRE_EMPESA = "Virtual Store";
 	const WEB_EMPRESA = "www.craftzcoffee.com";
 
-	const DESCRIPCION = "La mejor tienda en línea con artículos de moda.";
-	const SHAREDHASH = "TiendaVirtual";
+	const DESCRIPCION = "La mejor tienda en línea con artículos de calidad y al mejor precio.";
+	const SHAREDHASH = "VirtualStore";
 
 	//Datos Empresa
-	const DIRECCION = "Avenida las Américas Zona 13, Guatemala";
-	const TELEMPRESA = "+(502)78787845";
-	const WHATSAPP = "+50278787845";
-	const EMAIL_EMPRESA = "info@abelosh.com";
-	const EMAIL_PEDIDOS = "info@abelosh.com"; 
-	const EMAIL_SUSCRIPCION = "info@abelosh.com";
-	const EMAIL_CONTACTO = "info@abelosh.com";
+	const DIRECCION = "Km 35 carretera panamericana norte. Bo.Marvin Salazar Unto Me international, Managua, Nicaragua";
+	const TELEMPRESA = "+(505) 81637193";
+	const WHATSAPP = "+505 81637193";
+	const EMAIL_EMPRESA = "info@craftzcoffee.com";
+	const EMAIL_PEDIDOS = "info@craftzcoffee.com"; 
+	const EMAIL_SUSCRIPCION = "info@craftzcoffee.com";
+	const EMAIL_CONTACTO = "info@craftzcoffee.com";
 
 	const CAT_SLIDER = "1,2,3";
 	const CAT_BANNER = "4,5,6";
 	const CAT_FOOTER = "1,2,3,4,5";
 
 	//Datos para Encriptar / Desencriptar
-	const KEY = 'abelosh';
+	const KEY = 'craftzcoffee';
 	const METHODENCRIPT = "AES-128-ECB";
 
 	//Envío
@@ -97,8 +96,8 @@
 	const PROBUSCAR = 4;
 
 	//REDES SOCIALES
-	const FACEBOOK = "https://www.facebook.com/abelosh";
-	const INSTAGRAM = "https://www.instagram.com/febel24/";
+	const FACEBOOK = "https://www.facebook.com/profile.php?id=100081319592240";
+	const INSTAGRAM = "https://www.instagram.com/craftxdog/";
 	
 
  ?>
