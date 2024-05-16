@@ -24,7 +24,7 @@
 
 				<div class="col-sm-6 col-lg-4 p-b-50">
 					<h4 class="stext-301 cl0 p-b-30">
-						Cotacto
+						Contacto
 					</h4>
 
 					<p class="stext-107 cl7 size-201">
